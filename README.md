@@ -60,23 +60,6 @@ Este comando levantará dos servidores simultáneamente:
 • Email: user@example.com
 • Contraseña: password456
 
-## Estructura del Proyecto
-
-\`\`\`
-├── src/
-│   ├── components/          # Componentes reutilizables
-│   ├── pages/              # Páginas de la aplicación
-│   ├── router/             # Sistema de enrutamiento
-│   ├── services/           # Servicios para API calls
-│   ├── guards/             # Guardianes de rutas
-│   ├── helpers/            # Funciones de utilidad
-│   ├── style.css           # Estilos globales
-│   └── main.js             # Punto de entrada
-├── db.json                 # Base de datos simulada
-├── index.html              # HTML principal
-├── package.json            # Configuración del proyecto
-└── vite.config.js          # Configuración de Vite
-\`\`\`
 
 ## Funcionalidades
 

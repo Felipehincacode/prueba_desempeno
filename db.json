@@ -31,7 +31,7 @@
       "role": "visitor"
     },
     {
-      "id": 1752577017934,
+      "id": "1752577017934",
       "email": "user1@example.com",
       "password": "123456789",
       "role": "visitor"
@@ -58,13 +58,6 @@
       "description": "Una conferencia para discutir las últimas tendencias en tecnología.",
       "capacity": 200,
       "id": "3"
-    },
-    {
-      "id": "19ea",
-      "name": "eewe",
-      "date": "2025-07-18",
-      "description": "eee",
-      "capacity": 1
     }
   ],
   "registrations": [

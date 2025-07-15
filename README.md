@@ -1,5 +1,11 @@
 # Gestor de Eventos - SPA con Vanilla JS
 
+
+Felipe Hincapié Murillo
+clan lovelace
+correo: fotopipets@gmail.com
+CC: 1020493388
+
 Una aplicación de página única (SPA) para la gestión de eventos, construida desde cero con HTML, CSS y JavaScript puro, sin frameworks de UI.
 
 ## Descripción del Proyecto
@@ -29,7 +35,7 @@ Para levantar este proyecto localmente, sigue estos pasos:
 
 1. **Clona el repositorio:**
 \`\`\`bash
-git clone https://github.com/Felipehincacode/prueba_desempeno
+git clone https://github.com/Felipehincacode/prueba_desempeno.git
 cd prueba_desempeno
 \`\`\`
 

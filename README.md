@@ -29,8 +29,8 @@ Para levantar este proyecto localmente, sigue estos pasos:
 
 1. **Clona el repositorio:**
 \`\`\`bash
-git clone https://github.com/tu-usuario/tu-repositorio.git
-cd tu-repositorio
+git clone https://github.com/Felipehincacode/prueba_desempeno
+cd prueba_desempeno
 \`\`\`
 
 2. **Instala las dependencias:**
@@ -60,23 +60,7 @@ Este comando levantará dos servidores simultáneamente:
 • Email: user@example.com
 • Contraseña: password456
 
-## Estructura del Proyecto
 
-\`\`\`
-├── src/
-│   ├── components/          # Componentes reutilizables
-│   ├── pages/              # Páginas de la aplicación
-│   ├── router/             # Sistema de enrutamiento
-│   ├── services/           # Servicios para API calls
-│   ├── guards/             # Guardianes de rutas
-│   ├── helpers/            # Funciones de utilidad
-│   ├── style.css           # Estilos globales
-│   └── main.js             # Punto de entrada
-├── db.json                 # Base de datos simulada
-├── index.html              # HTML principal
-├── package.json            # Configuración del proyecto
-└── vite.config.js          # Configuración de Vite
-\`\`\`
 
 ## Funcionalidades
 

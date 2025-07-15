@@ -1,0 +1,114 @@
+{
+  "users": [
+    {
+      "email": "admin@example.com",
+      "password": "password123",
+      "role": "administrator",
+      "id": "1"
+    },
+    {
+      "email": "user@example.com",
+      "role": "administrator",
+      "password": "password456",
+      "id": "2"
+    },
+    {
+      "email": "maria@example.com",
+      "password": "password789",
+      "role": "visitor",
+      "id": "3"
+    },
+    {
+      "email": "carlos@example.com",
+      "password": "password101",
+      "role": "visitor",
+      "id": "4"
+    },
+    {
+      "id": "1752575291963",
+      "email": "fotopipets@gmail.com",
+      "password": "pipe1999",
+      "role": "visitor"
+    },
+    {
+      "id": 1752577017934,
+      "email": "user1@example.com",
+      "password": "123456789",
+      "role": "visitor"
+    }
+  ],
+  "events": [
+    {
+      "name": "Concierto de Música",
+      "date": "2024-03-15",
+      "description": "Un concierto en vivo con varios artistas locales.",
+      "capacity": 100,
+      "id": "1"
+    },
+    {
+      "name": "Exposición de Arte",
+      "date": "2024-04-01",
+      "description": "Una exposición que muestra artistas locales.",
+      "capacity": 49,
+      "id": "2"
+    },
+    {
+      "name": "Conferencia de Tecnología",
+      "date": "2024-05-10",
+      "description": "Una conferencia para discutir las últimas tendencias en tecnología.",
+      "capacity": 200,
+      "id": "3"
+    },
+    {
+      "id": "19ea",
+      "name": "eewe",
+      "date": "2025-07-18",
+      "description": "eee",
+      "capacity": 1
+    }
+  ],
+  "registrations": [
+    {
+      "userId": 2,
+      "eventId": 1,
+      "registrationDate": "2024-01-15T10:30:00.000Z",
+      "id": "1"
+    },
+    {
+      "userId": 3,
+      "eventId": 1,
+      "registrationDate": "2024-01-16T14:20:00.000Z",
+      "id": "2"
+    },
+    {
+      "id": "50b8",
+      "userId": 1752574364643,
+      "eventId": 2,
+      "registrationDate": "2025-07-15T10:26:32.918Z"
+    },
+    {
+      "id": "ecb0",
+      "userId": 1752574364643,
+      "eventId": 3,
+      "registrationDate": "2025-07-15T10:26:41.700Z"
+    },
+    {
+      "id": "6692",
+      "userId": 1752575291963,
+      "eventId": 2,
+      "registrationDate": "2025-07-15T10:28:22.590Z"
+    },
+    {
+      "id": "1d40",
+      "userId": 1752575291963,
+      "eventId": 1,
+      "registrationDate": "2025-07-15T10:31:18.418Z"
+    },
+    {
+      "id": "2a40",
+      "userId": 1752577017934,
+      "eventId": null,
+      "registrationDate": "2025-07-15T10:57:10.973Z"
+    }
+  ]
+}

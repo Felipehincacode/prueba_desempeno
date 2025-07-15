@@ -66,10 +66,8 @@ Este comando levantará dos servidores simultáneamente:
 • Email: user@example.com
 • Contraseña: password456
 
-<<<<<<< HEAD
-=======
 
->>>>>>> 39051ea8891177aa138509aeaae1fa3d6ab50f82
+
 
 ## Funcionalidades
 

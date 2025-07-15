@@ -429,6 +429,13 @@ form p a:hover {
   color: white;
 }
 
+.gif_hover ::hover {
+  transform: scale(1.5);
+  transition: transform 0.2s;
+}
+  
+
+
 /* Alertas y mensajes */
 .alert {
   padding: 16px;

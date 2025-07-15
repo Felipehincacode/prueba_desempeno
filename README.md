@@ -29,8 +29,8 @@ Para levantar este proyecto localmente, sigue estos pasos:
 
 1. **Clona el repositorio:**
 \`\`\`bash
-git clone https://github.com/tu-usuario/tu-repositorio.git
-cd tu-repositorio
+git clone https://github.com/Felipehincacode/prueba_desempeno
+cd prueba_desempeno
 \`\`\`
 
 2. **Instala las dependencias:**
@@ -60,6 +60,10 @@ Este comando levantará dos servidores simultáneamente:
 • Email: user@example.com
 • Contraseña: password456
 
+<<<<<<< HEAD
+=======
+
+>>>>>>> 39051ea8891177aa138509aeaae1fa3d6ab50f82
 
 ## Funcionalidades
 
